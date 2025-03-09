@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>半ば無意識</title>
+    <link>https://usurageha.github.io/</link>
+    <description>Recent content on 半ば無意識</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 28 Dec 2024 16:13:36 +0900</lastBuildDate>
+    <atom:link href="https://usurageha.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 4th Post</title>
+      <link>https://usurageha.github.io/posts/my-4th-post/</link>
+      <pubDate>Sat, 28 Dec 2024 16:13:36 +0900</pubDate>
+      <guid>https://usurageha.github.io/posts/my-4th-post/</guid>
+      <description>&lt;h1 id=&#34;a-first-level-heading&#34;&gt;A first-level heading&lt;/h1&gt;&#xA;&lt;h2 id=&#34;a-second-level-heading&#34;&gt;A second-level heading&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-third-level-heading&#34;&gt;A third-level heading&lt;/h3&gt;&#xA;&lt;p&gt;Text that is not a quote&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Text that is a quote&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Use &lt;code&gt;git status&lt;/code&gt; to list all new or modified files that haven&amp;rsquo;t yet been committed.&lt;/p&gt;&#xA;&lt;p&gt;Some basic Git commands are:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git status&#xA;git add&#xA;git commit&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The background color is &lt;code&gt;#ffffff&lt;/code&gt; for light mode and &lt;code&gt;#000000&lt;/code&gt; for dark mode.&lt;/p&gt;&#xA;&lt;p&gt;This site was built using &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h1 id=&#34;example-headings&#34;&gt;Example headings&lt;/h1&gt;&#xA;&lt;h2 id=&#34;sample-section&#34;&gt;Sample Section&lt;/h2&gt;&#xA;&lt;h2 id=&#34;thisll-be-a-_helpful_-section-about-the-greek-letter-θ&#34;&gt;This&amp;rsquo;ll be a &lt;em&gt;Helpful&lt;/em&gt; Section About the Greek Letter Θ!&lt;/h2&gt;&#xA;&lt;p&gt;A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>私の新しい3rdポスト</title>
+      <link>https://usurageha.github.io/posts/my-3rd-post/</link>
+      <pubDate>Wed, 25 Dec 2024 15:20:01 +0900</pubDate>
+      <guid>https://usurageha.github.io/posts/my-3rd-post/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Head 1&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Head 2&#xA;aaaa&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;* your source code write here.&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>https://usurageha.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 23 Dec 2024 23:25:23 +0900</pubDate>
+      <guid>https://usurageha.github.io/posts/my-first-post/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;test&#xA;&lt;ul&gt;&#xA;&lt;li&gt;test2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
