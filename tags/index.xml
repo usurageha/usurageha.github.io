@@ -1,11 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on 半ば無意識</title>
-    <link>https://usurageha.github.io/tags/</link>
-    <description>Recent content in Tags on 半ば無意識</description>
-    <generator>Hugo</generator>
-    <language>ja-jp</language>
-    <atom:link href="https://usurageha.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+ <channel>
+   <title>Tags on Semi-Unconsciously</title>
+   <link>https://usurageha.github.io/tags/</link>
+   <description>Recent content in Tags on Semi-Unconsciously</description>
+   <generator>Hugo -- gohugo.io</generator>
+   <language>ja-jp</language>
+   
+       <atom:link href="https://usurageha.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+   
+   
+     <item>
+       <title>My 4th Post</title>
+       <link>https://usurageha.github.io/posts/my-4th-post/</link>
+       <pubDate>Sat, 28 Dec 2024 16:13:36 +0900</pubDate>
+       
+       <guid>https://usurageha.github.io/posts/my-4th-post/</guid>
+       <description>&lt;h1 id=&#34;a-first-level-heading&#34;&gt;A first-level heading&lt;/h1&gt;&lt;h2 id=&#34;a-second-level-heading&#34;&gt;A second-level heading&lt;/h2&gt;&lt;h3 id=&#34;a-third-level-heading&#34;&gt;A third-level heading&lt;/h3&gt;&lt;p&gt;Text that is not a quote&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;Text that is a quote&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Use &lt;code&gt;git status&lt;/code&gt; to list all new or modified files that haven&amp;rsquo;t yet been committed.&lt;/p&gt;&lt;p&gt;Some basic Git commands are:&lt;/p&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git statusgit addgit commit&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The background color is &lt;code&gt;#ffffff&lt;/code&gt; for light mode and &lt;code&gt;#000000&lt;/code&gt; for dark mode.&lt;/p&gt;&lt;p&gt;This site was built using &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;.&lt;/p&gt;&lt;h1 id=&#34;example-headings&#34;&gt;Example headings&lt;/h1&gt;&lt;h2 id=&#34;sample-section&#34;&gt;Sample Section&lt;/h2&gt;&lt;h2 id=&#34;thisll-be-a-_helpful_-section-about-the-greek-letter-θ&#34;&gt;This&amp;rsquo;ll be a &lt;em&gt;Helpful&lt;/em&gt; Section About the Greek Letter Θ!&lt;/h2&gt;&lt;p&gt;A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.&lt;/p&gt;&lt;h2 id=&#34;this-heading-is-not-unique-in-the-file&#34;&gt;This heading is not unique in the file&lt;/h2&gt;&lt;p&gt;TEXT 1&lt;/p&gt;&lt;h2 id=&#34;this-heading-is-not-unique-in-the-file-1&#34;&gt;This heading is not unique in the file&lt;/h2&gt;&lt;p&gt;TEXT 2&lt;/p&gt;&lt;h1 id=&#34;links-to-the-example-headings-above&#34;&gt;Links to the example headings above&lt;/h1&gt;&lt;p&gt;Link to the sample section: &lt;a href=&#34;#sample-section&#34;&gt;Link Text&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Link to the helpful section: &lt;a href=&#34;#thisll--be-a-helpful-section-about-the-greek-letter-%CE%98&#34;&gt;Link Text&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Link to the first non-unique section: &lt;a href=&#34;#this-heading-is-not-unique-in-the-file&#34;&gt;Link Text&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Link to the second non-unique section: &lt;a href=&#34;#this-heading-is-not-unique-in-the-file-1&#34;&gt;Link Text&lt;/a&gt;.&lt;/p&gt;&lt;h1 id=&#34;section-heading&#34;&gt;Section Heading&lt;/h1&gt;&lt;p&gt;Some body text of this section.&lt;/p&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Some text I want to provide a direct link to, but which doesn&amp;rsquo;t have its own heading.&lt;/p&gt;&lt;p&gt;(… more content…)&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;#my-custom-anchor-point&#34;&gt;A link to that custom anchor&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;https://myoctocat.com/assets/images/base-octocat.svg&#34; alt=&#34;Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.&#34;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; #739&lt;/li&gt;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;a href=&#34;https://github.com/octo-org/octo-repo/issues/740&#34;&gt;https://github.com/octo-org/octo-repo/issues/740&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Add delight to the experience when all tasks are complete :tada:&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;@octocat :+1: This PR looks great - it&amp;rsquo;s ready to merge! :shipit:&lt;/p&gt;&lt;p&gt;Here is a simple footnote&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;&lt;p&gt;A footnote can also have multiple lines&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;[!NOTE]Useful information that users should know, even when skimming content.&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;p&gt;[!TIP]Helpful advice for doing things better or more easily.&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;p&gt;[!IMPORTANT]Key information users need to know to achieve their goal.&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;p&gt;[!WARNING]Urgent info that needs immediate user attention to avoid problems.&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;p&gt;[!CAUTION]Advises about risks or negative outcomes of certain actions.&lt;/p&gt;&lt;/blockquote&gt;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;&lt;hr&gt;&lt;ol&gt;&lt;li id=&#34;fn:1&#34;&gt;&lt;p&gt;My reference.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li id=&#34;fn:2&#34;&gt;&lt;p&gt;To add line breaks within a footnote, prefix new lines with 2 spaces.This is a second line.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</description>
+     </item>
+   
+     <item>
+       <title>私の新しい3rdポスト</title>
+       <link>https://usurageha.github.io/posts/my-3rd-post/</link>
+       <pubDate>Wed, 25 Dec 2024 15:20:01 +0900</pubDate>
+       
+       <guid>https://usurageha.github.io/posts/my-3rd-post/</guid>
+       <description>&lt;ul&gt;&lt;li&gt;Head 1&lt;ul&gt;&lt;li&gt;Head 2aaaa&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;* your source code write here.&lt;/code&gt;&lt;/pre&gt;</description>
+     </item>
+   
+     <item>
+       <title>My First Post</title>
+       <link>https://usurageha.github.io/posts/my-first-post/</link>
+       <pubDate>Mon, 23 Dec 2024 23:25:23 +0900</pubDate>
+       
+       <guid>https://usurageha.github.io/posts/my-first-post/</guid>
+       <description>&lt;ul&gt;&lt;li&gt;test&lt;ul&gt;&lt;li&gt;test2&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+     </item>
+   
+ </channel>
 </rss>
